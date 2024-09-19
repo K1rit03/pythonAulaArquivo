@@ -1,0 +1,14 @@
+Texto...Thiago - 18
+Davi - 17
+Julia - 33
+Thiago - 18
+Julia - 33
+Ricardo - 90
+Davi - 17
+Maria - 36
+& "C:/Program Files/Python312/python.exe" c:/Users/labsfiap/Desktop/pythonAulaArquivo/exercicio1.py - 18
+8 - 8
+8 - 8
+8 - 8
+8 - 8
+8 - 8
